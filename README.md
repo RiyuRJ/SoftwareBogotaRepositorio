@@ -29,4 +29,4 @@ Este repositorio centraliza la documentación y el aprendizaje de la empresa par
 
 ---
 
- Repositorio de simulación para gestión del conocimiento empresarial.*
+ Repositorio de simulación para gestión del conocimiento empresarial.
