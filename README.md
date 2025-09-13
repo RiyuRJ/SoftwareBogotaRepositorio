@@ -1,12 +1,12 @@
 # SoftwareBogotaRepositorio
 
-## Repositorio de Conocimiento
+## **Repositorio de Conocimiento**
 
 Este repositorio centraliza la documentación y el aprendizaje de la empresa para mejorar la **colaboración, eficiencia e innovación**.
 
 ---
 
-## Estructura
+## **Estructura**
 
 1. **Documentación Técnica**  
    Guías y mejores prácticas de proyectos.  
@@ -29,4 +29,4 @@ Este repositorio centraliza la documentación y el aprendizaje de la empresa par
 
 ---
 
- *Repositorio de simulación para gestión del conocimiento empresarial.*
+ Repositorio de simulación para gestión del conocimiento empresarial.*
