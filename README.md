@@ -1,6 +1,6 @@
 # SoftwareBogotaRepositorio
 
-# Repositorio de Conocimiento
+## Repositorio de Conocimiento
 
 Este repositorio centraliza la documentación y el aprendizaje de la empresa para mejorar la **colaboración, eficiencia e innovación**.
 
